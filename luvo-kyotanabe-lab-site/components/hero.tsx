@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="fixed top-0 left-0 right-0 z-50 bg-navy-900/90 backdrop-blur-sm border-b border-white/10 shadow-md">
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <a href="#" className="text-white font-bold text-xl hover:text-orange-300 transition-colors">
-            LUVO Kyotanabe Lab
+            The cure
           </a>
           <nav>
             <ul className="flex items-center gap-1 sm:gap-4">
